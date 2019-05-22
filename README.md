@@ -1,1 +1,1 @@
-Angular demo
+Angular JS demo
